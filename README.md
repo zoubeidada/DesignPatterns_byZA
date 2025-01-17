@@ -1,3 +1,5 @@
 # Exemples de Design Patterns
 
- - Iterator_DP
+ - Iterateur sur des menus
+ - Iterateur sur un composite (et peut-être un stratégie) 
+ 
